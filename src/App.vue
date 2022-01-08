@@ -62,7 +62,7 @@ body {
       h1{
         margin: 0;
         font-family: 'Bodoni Moda', serif;
-        font-size: 10em;
+        font-size: 10rem;
       }
       #subtitle{
         margin: 0;
